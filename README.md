@@ -1,2 +1,2 @@
 # DynamicProgram
-Assignment2 of COMP20007, 2023, Semester 1
+Assignment2 of COMP20007, Semester 1, 2023
